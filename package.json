@@ -1,0 +1,16 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "webpack-dev-server"
+  },
+  "dependencies": {
+    "react": "0.0.0-experimental-94c0244ba",
+    "react-async-ssr": "^0.7.2",
+    "react-dom": "0.0.0-experimental-94c0244ba",
+    "react-lazy-data": "^0.2.4",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
